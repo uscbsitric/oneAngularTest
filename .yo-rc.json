@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.one.north",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "monolith",
+    "baseName": "oneangular",
+    "packageName": "com.one.north",
+    "packageFolder": "com/one/north",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTRkZDkxMjcxMjM1YTIzODQwZWNlNzQ0YTY0ZGM5YmM5MzgzNGE1ZmZmYzk3OTQzNDc4YjkyZmI1MmIxMDY1ZDliZTAyZDgxODk4ZWRkZjA3YzcwNGE3ZGIyZDk3ZmUzOGU2MDQxYjA2ZTk3MDZhNWM5ZjFjZWE4MmFmYTAzMmM=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["gatling", "cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
